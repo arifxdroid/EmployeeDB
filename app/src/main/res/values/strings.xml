@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Employee DB</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="title_activity_employee_add">"Add Employee "</string>
+    <string name="title_activity_employee_view">Employee View</string>
+</resources>
